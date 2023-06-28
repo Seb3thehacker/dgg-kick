@@ -1,2 +1,3 @@
 # dgg-kick
-Userscript for DGG kick stream embed.
+Userscript for DGG Kick stream embed.
+Turn off to watch other streams besides Kick.
